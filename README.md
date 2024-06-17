@@ -24,5 +24,11 @@ agents 智能体：通过提示词和模型的工作流编排，实现更有针�
 并且这是一个两个热门趋势的结合，趋势内的技术，变动都比较大。希望能通过开源，汇集更多相似爱好的伙伴一起发掘新的机会。
 
 # 社区互动
-目前有个微信群，因为二维码会过期，可先添加我的微信 mayixi2013 ，然后拉你进群。
+目前有个微信群，因为二维码会过期，可先添加我的微信 mayixi2013 ，然后拉你进群。<br/>
 ![db254bddf7894cf8d1e3503b837c0e8](https://github.com/yuer01/shortVideoCommentAndAgents/assets/7564469/6f2d1177-f328-41bf-9cff-dfa8349a2c41)
+
+# 我会啥？
+vue js uniapp 小程序 (前面这些是强项) <br/>
+android原生（做过三年） autojs刚学 <br/>
+大模型agents （最近关注的热点技术）<br/>
+后端也会一点，如java php，能改部分源码<br/>
