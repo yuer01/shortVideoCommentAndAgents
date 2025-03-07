@@ -25,7 +25,10 @@ agents 智能体：通过提示词和模型的工作流编排，实现更有针�
 
 # 社区互动
 目前有个微信群，因为二维码会过期，可先添加我的微信 mayixi2013 ，然后拉你进群。<br/>
-![db254bddf7894cf8d1e3503b837c0e8](https://github.com/yuer01/shortVideoCommentAndAgents/assets/7564469/6f2d1177-f328-41bf-9cff-dfa8349a2c41)
+
+现在都在这个文档上了
+https://d5ckbc7rih.feishu.cn/wiki/KPnRwM3cLiDzn2kbOs8c1wUBnMc 
+
 
 # 我会啥？
 vue js uniapp 小程序 (前面这些是强项) <br/>
